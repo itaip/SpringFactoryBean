@@ -1,0 +1,1 @@
+small sample of spring FactoryBean, how to change between two beans at runtime.
